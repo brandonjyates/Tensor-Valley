@@ -2,7 +2,7 @@
 
 Tensor Valley is a Vectrex game build for PiTrex.
 
-![game](images/game.jog)
+![game](game.jpeg)
 
 ## Downloads
 
