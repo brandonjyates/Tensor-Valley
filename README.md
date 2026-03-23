@@ -11,11 +11,12 @@ Current public build: **v1.13**
 
 ## Install
 
-1. Copy the correct `tensor.img` to your SD card:
-   - `piZero1/tensor.img` for Pi Zero 1
-   - `piZero2/tensor.img` for Pi Zero 2
-2. Boot PiTrex.
-3. Launch from loader menu (if your loader has Tensor Valley entry), or run the image directly.
+1. ***RENAME the tensor.img to test.img***
+2. Copy the correct `test.img` to your SD card:
+   - `piZero1/test.img` for Pi Zero 1
+   - `piZero2/test.img` for Pi Zero 2
+3. Boot PiTrex.
+4. Launch from Pitrex menu, Pitrex Computer icon, move right to test (for testing the Tensor Valley game).
 
 ## Notes
 
@@ -25,4 +26,4 @@ Current public build: **v1.13**
 ## Credits
 
 - Game: Brandon Yates
-- Platform: PiTrex / Vectrex community tools
+- Platform: BareMetal PiTrex / Vectrex
