@@ -8,7 +8,7 @@ Tensor Valley is a Vectrex game build for PiTrex.
 
 - Pi Zero 1 build: `piZero1/tensor.img`
 - Pi Zero 2 build: `piZero2/tensor.img`
-- https://github.com/brandonjyates/Tensor-Valley/archive/refs/heads/main.zip
+- https://github.com/brandonjyates/Tensor-Valley/archive/refs/tags/v1.26.zip
 
 Current public build: **v1.26**
 
