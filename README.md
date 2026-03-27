@@ -10,16 +10,16 @@ Tensor Valley is a Vectrex game build for PiTrex.
 - Pi Zero 2 build: `piZero2/tensor.img`
 - https://github.com/brandonjyates/Tensor-Valley/archive/refs/heads/main.zip
 
-Current public build: **v1.13**
+Current public build: **v1.26**
 
 ## Install
 
-1. ***RENAME the tensor.img to test.img***
-2. Copy the correct `test.img` to your SD card:
+1. ***RENAME the tensor-ZEROX.img to test.img OR rebel.img (BACK UP rebel.img before writing over it)***
+2. Copy the correct .img to your SD card:
    - `piZero1/test.img` for Pi Zero 1
    - `piZero2/test.img` for Pi Zero 2
 3. Boot PiTrex.
-4. Launch from Pitrex menu, Pitrex Computer icon, move right to test (for testing the Tensor Valley game).
+4. Launch from Pitrex menu, Pitrex Computer icon, move right to test or Rebel (for testing the Tensor Valley game).
 
 ## Notes
 
